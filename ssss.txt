@@ -1,0 +1,11 @@
+﻿'___________________________________________________________.exe' (Win32): Loaded 'C:\Users\Owner\source\repos\___________________________________________________________\Debug\___________________________________________________________.exe'. Symbols loaded.
+'___________________________________________________________.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'___________________________________________________________.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'___________________________________________________________.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'___________________________________________________________.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'___________________________________________________________.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x4acc has exited with code 0 (0x0).
+The thread 0x31c8 has exited with code -1073741510 (0xc000013a).
+The thread 0x2744 has exited with code -1073741510 (0xc000013a).
+The thread 0x43f4 has exited with code -1073741510 (0xc000013a).
+The program '[18244] ___________________________________________________________.exe' has exited with code -1073741510 (0xc000013a).
