@@ -74,6 +74,7 @@ void print(int a[100][100], int n, int m) {
 int main() {
 	int a[100][100];
 	int n, m;
+	puts("hello");
 	scanf_s("%i %i", &n, &m);
 	int b = 1;
 	filAr(a, n, m);
